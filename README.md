@@ -12,7 +12,7 @@ Spatial Data Engineer focused on automation, GIS systems, ETL pipelines and scal
 
 ## Featured Project
 
-### AmIBetterOff.au
+### [AmIBetterOff.au](https://amibetteroff.au)
 Production web application helping Australians compare contractor vs permanent employment outcomes.
 
 Built using:
@@ -21,6 +21,8 @@ Built using:
 - Financial & tax modelling
 - Shareable URL state
 - SEO & analytics optimisation
+
+**[Read the Dev Blog](https://github.com/BriceNairn/amibetteroff-notes)**
 
 ## Technologies
 
