@@ -1,53 +1,22 @@
-# Hi, I'm Brice 👋
+# Brice Nairn
 
-Spatial Data Engineer focused on automation, GIS systems, ETL pipelines and scalable data infrastructure.
+Spatial Data Engineer • Automation Specialist • Product Builder
 
-## Current Focus
-- Spatial data engineering
-- Python automation
-- Geospatial ETL workflows
-- Environmental data processing
-- Cloud-based infrastructure
-- Technical product development
+🌐 [Portfolio](https://bricenairn.github.io) 
+📫 [LinkedIn](https://www.linkedin.com/in/bricenairn/)
 
-## Featured Project
+📍 Adelaide, Australia
+
+## Selected Projects
 
 ### [AmIBetterOff.au](https://amibetteroff.au)
 Production web application helping Australians compare contractor vs permanent employment outcomes.
 
-Built using:
-- Cloudflare Workers
-- HTML/CSS/JavaScript
-- Financial & tax modelling
-- Shareable URL state
-- SEO & analytics optimisation
+### [News-Reach](https://github.com/BriceNairn/news-reach)
+Interactive global news mapping platform built using GDELT, Python, React and Leaflet.
 
-**[Read the Dev Blog](https://github.com/BriceNairn/amibetteroff-notes)**
+### Geospatial Automation Platform
+Designed and built a geospatial automation platform that reduced a manual assessment workflow from 240+ hours to under one hour.
 
 ## Technologies
-
 Python • SQL • FME • ArcGIS • QGIS • PostGIS • Cloudflare Workers • Azure
-
-## Background
-
-10+ years of experience across:
-- Utilities
-- Infrastructure
-- Enterprise GIS
-- Automation systems
-- Geospatial data workflows
-- Product-oriented engineering
-
-## Interests
-
-I'm particularly interested in:
-- Automation systems
-- Spatial data infrastructure
-- Environmental & scientific datasets
-- Modern geospatial engineering
-- Workflow optimisation
-- Technical product development
-
-🌏 Adelaide, Australia
-
-🔗 https://AmIBetterOff.au
